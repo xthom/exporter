@@ -1,10 +1,10 @@
 {
   "name": "exporter",
-  "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "version": "0.0.1",
+  "description": "simple data exporter",
   "main": "index.coffee",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests\" && exit 1"
   },
   "repository": "",
   "author": "Tomas Gluchman <tomas@gluchman.sk>",
