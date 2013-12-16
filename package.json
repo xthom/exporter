@@ -1,0 +1,21 @@
+{
+  "name": "exporter",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Tomas Gluchman <tomas@gluchman.sk>",
+  "license": "BSD",
+  "dependencies": {
+    "mysql": "~2.0.0-alpha8",
+    "sql": "~0.26.0",
+    "cson-config": "~0.1.5",
+    "coffee-script": "~1.6.3",
+    "optimist": "~0.6.0",
+    "async": "~0.2.9",
+    "moment": "~2.1.0"
+  }
+}

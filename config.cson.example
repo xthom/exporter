@@ -1,0 +1,8 @@
+
+# Example config file
+
+exports:
+  db_name: 
+    connection: "mysql://user:password@server/db_name?charset=UTF8"
+    title: "my-export"
+
